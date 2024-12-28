@@ -1,0 +1,18 @@
+{
+  "name": "prueba-saludar-lib",
+  "version": "1.0.0",
+  "description": "Prueba una libreraia propia desde la nube",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "probar",
+    "libreria"
+  ],
+  "author": "FGalan",
+  "license": "MIT",
+  "dependencies": {
+    "saludar-lib": "^1.0.0"
+  }
+}
